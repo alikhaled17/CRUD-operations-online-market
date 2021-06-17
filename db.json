@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "name": "water",
+      "price": "50",
+      "count": 0,
+      "cart": false,
+      "id": 3
+    },
+    {
+      "id": 10,
+      "name": "Cola",
+      "price": "15",
+      "count": 0,
+      "cart": false
+    },
+    {
+      "id": 11,
+      "name": "as",
+      "price": "10",
+      "count": 0,
+      "cart": false
+    },
+    {
+      "id": 12,
+      "name": "sdss",
+      "price": "sfds",
+      "count": 0,
+      "cart": false
+    }
+  ]
+}
