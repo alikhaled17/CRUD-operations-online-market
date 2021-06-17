@@ -22,4 +22,4 @@ The code is written in JS (ReactJS). It's all about get data and integration wit
 
 ## Demo
 
-![demo](https://drive.google.com/file/d/1aMgVKg5dD2UwfDmGtIig59iWH8zYFOn6/view?usp=sharing)
+![demo](./demo.gif)
